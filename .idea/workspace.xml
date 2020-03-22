@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd698c9f-6d49-4fe5-9797-250800aabea3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1YVZEsf6QAERgClh7qmB8eyRWDY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build solution.go">
+    <configuration name="go build github.com/rh01/leetcode/315-count-of-smaller-numbers-after-self" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/315-count-of-smaller-numbers-after-self/solution.go" />
+      <package value="github.com/rh01/leetcode/315-count-of-smaller-numbers-after-self" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/315-count-of-smaller-numbers-after-self/solution.go" />
+      <package value="github.com/rh01/leetcode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build solution.go" />
+        <item itemvalue="Go Build.go build github.com/rh01/leetcode/315-count-of-smaller-numbers-after-self" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="918" height="271" key="GridCell.Tab.0.bottom" timestamp="1583073704772">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1583043698487" />
+    <state width="918" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1583046389376" />
+    <state width="918" height="271" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1583073704772" />
+    <state width="918" height="271" key="GridCell.Tab.0.center" timestamp="1583073704771">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1583043698486" />
+    <state width="918" height="271" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1583046389375" />
+    <state width="918" height="271" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1583073704771" />
+    <state width="918" height="271" key="GridCell.Tab.0.left" timestamp="1583073704771">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1583043698486" />
+    <state width="918" height="271" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1583046389374" />
+    <state width="918" height="271" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1583073704771" />
+    <state width="918" height="271" key="GridCell.Tab.0.right" timestamp="1583073704772">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1583043698486" />
+    <state width="918" height="271" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1583046389375" />
+    <state width="918" height="271" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1583073704772" />
+    <state x="776" y="300" key="SettingsEditor" timestamp="1584168492734">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state x="776" y="300" key="SettingsEditor/0.23.1920.999@0.23.1920.999" timestamp="1584168492734" />
+  </component>
+</project>
